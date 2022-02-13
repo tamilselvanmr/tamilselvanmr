@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tamilselvan
-- 👀 I’m interested in Programming, Computer Networks, DBMS, Web Development, and Cloud.
+- 👀 I’m interested in Programming, Computer Networks, Web Development, and Cloud.
 - 🌱 I’m currently learning Web Development.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
